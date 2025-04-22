@@ -82,3 +82,7 @@ A smaller version of Watchneighbors has been created in MIPS-32 assembly languag
 *Descripion*: Software written in Java; it lets the user create graphs by defining ordered sets. GMaker requires Graphviz, a graph generator application, that allows to generate graphs that are initially represented as files with dot extension. GMaker generates a file with dot extension, and this file is the input for the program that render it, and generates a graph drawing, or equivalently, the Hasse diagram; at this point, GMaker takes care of showing to the user the generated graph. Various graphs can be generated, as they represent different algebraic structures: partition of a set, down-sets of a poset, disjoined down-sets of a poset, join-irreducible elements set of a poset.
 
 *Link*: [GMaker](https://github.com/alessandrogiovannacci/GMaker)
+
+### Miscellaneous
+
+*Curriculum vitae*: [CV](https://github.com/alessandrogiovannacci/alessandrogiovannacci.github.io/blob/main/assets/curriculum_AG.pdf)
