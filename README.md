@@ -13,7 +13,7 @@ What can I say about me with few words? I am curious, I want to understand how t
 
 *University*: Università degli studi dell'Insubria
 
-*Thesis*: Design and development of applications related to system engineering activities of astronomical instrumentation with SysML
+*Thesis*: [Design and development of applications related to system engineering activities of astronomical instrumentation with SysML](https://github.com/alessandrogiovannacci/alessandrogiovannacci.github.io/blob/main/assets/thesis_master.pdf)
 
 ### Bachelor of Science in Computer Science
 
