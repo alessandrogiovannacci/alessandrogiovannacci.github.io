@@ -21,7 +21,7 @@ What can I say about me with few words? I am curious, I want to understand how t
 
 *University*: Università degli studi dell'Insubria
 
-*Thesis*: Alberi e strutture ordinate: una implementazione in Java
+*Thesis*: [Alberi e strutture ordinate: una implementazione in Java](https://github.com/alessandrogiovannacci/alessandrogiovannacci.github.io/blob/main/assets/thesis_bachelor.pdf)
 
 # Last experiences
 
