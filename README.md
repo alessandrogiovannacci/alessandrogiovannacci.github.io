@@ -83,6 +83,10 @@ A smaller version of Watchneighbors has been created in MIPS-32 assembly languag
 
 *Link*: [GMaker](https://github.com/alessandrogiovannacci/GMaker)
 
-### Miscellaneous
+# Miscellaneous
 
 *Curriculum vitae*: [CV](https://github.com/alessandrogiovannacci/alessandrogiovannacci.github.io/blob/main/assets/curriculum_AG.pdf)
+
+I donate blood periodically, I am member of [AVIS](https://www.avisvarese.it/)
+
+Logic games, puzzle games...are one of my great passions. I am a member of [Mensa](https://www.mensa.it/)
