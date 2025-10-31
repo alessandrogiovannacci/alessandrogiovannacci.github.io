@@ -9,6 +9,8 @@ What can I say about me with few words? I am curious, I want to understand how t
 
 ### Master of science in Computer science
 
+*Specialization*: Software engineering
+
 *Dates*: october 2018 - december 2020
 
 *University*: Università degli studi dell'Insubria
